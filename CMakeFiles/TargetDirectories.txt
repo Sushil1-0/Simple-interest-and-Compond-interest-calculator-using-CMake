@@ -1,0 +1,3 @@
+/home/sushil/Desktop/Cmake/CMakeFiles/rebuild_cache.dir
+/home/sushil/Desktop/Cmake/CMakeFiles/edit_cache.dir
+/home/sushil/Desktop/Cmake/CMakeFiles/Simple.dir

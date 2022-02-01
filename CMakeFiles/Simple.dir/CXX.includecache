@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sushil/Desktop/Cmake/lib/simheader.h
+iostream
+-
+cmath
+-
+
+/home/sushil/Desktop/Cmake/simpleinterest.cpp
+iostream
+-
+lib/simheader.h
+/home/sushil/Desktop/Cmake/lib/simheader.h
+
